@@ -1,12 +1,12 @@
 
 <!--
-**abialdev/abialdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**developd365/developd365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="300"/>    
 </div>
 
-## 👋 Hi there, I am Abi, a Business Central developer. :technologist:👋 (●'◡'●)
+## 👋 Hi there, I am Abinash, a Business Central developer. :technologist:👋 (●'◡'●)
  
 - 🔭 I’m currently working on extension development using *AL* for **Business Central**.
 - 👷 Beside Business Central I love to work on **PowerBI**.
@@ -42,26 +42,12 @@
 <!--
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE"  width ="64" height="64" /></a>
 -->
-<a href="https://twitter.com/abiALdev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110143314/182487702-e378f11a-8cd2-4b42-a8dd-0ac3a86f3c56.png" width ="64" height="64" /></a>
-<a href="https://abial.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110143314/182488007-a23a813f-bc2c-4428-8383-fd58fd8fb74a.png" width ="64" height="64" /></a>
-
-
+<a href="https://twitter.com/developd365" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110143314/182487702-e378f11a-8cd2-4b42-a8dd-0ac3a86f3c56.png" width ="64" height="64" /></a>
+<a href="https://abinash.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110143314/182488007-a23a813f-bc2c-4428-8383-fd58fd8fb74a.png" width ="64" height="64" /></a>
 
 ## :writing_hand: Blog Posts :
 
-- [Upgrade to Morden Workspace - PowerBI](https://abial.dev/power-bi-workspace-has-been-upgraded-to-modern-workspace/)
-- [Color Pallet - Business Central](https://abial.dev/business-central-color-pallet/)
-
-
-
-## :fire: My Stats : :chart_with_upwards_trend:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abialdev&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api?username=abialdev&show_icons=true&theme=radical" width="500">
-
-<a href="https://skyline.github.com/abialdev/2022" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110143314/182494010-09c83875-7feb-441b-8399-bb6eddb8c19a.png" width ="500" height="300" /></a>
-
-
+- [PowerBI Update June 2023](https://abinash.dev/power-bi-update-june-2023/)
 
 ## :toolbox: Resoureces :
 - <a href="https://www.flaticon.com/free-icons/twitter" title="twitter icons">Twitter icons created by Freepik - Flaticon</a>
